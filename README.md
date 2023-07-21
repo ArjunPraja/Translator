@@ -50,6 +50,3 @@ For any inquiries or feedback, you can reach out to me:
 - Author: Arjun Prajapati
 - Email: prajapatiarjun2801@gmail.com
 
----
-
-Please replace the `<YOUR_PROJECT_DESCRIPTION>` and `<YOUR_EMAIL>` placeholders with your actual project description and email address. You can also customize this README as per your specific project details and preferences. After creating the README file, you can include it in your GitHub repository to provide information about your Translator project to other users and developers.
